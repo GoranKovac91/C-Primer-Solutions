@@ -1,3 +1,4 @@
-﻿  Ex2.14.cpp
-C:\Users\goran\Desktop\C++ primer\C-Primer-Solutions\Ch2\Ch2\Ex2.14.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+﻿  Ex2.25.cpp
+C:\Users\goran\Desktop\C++ primer\C-Primer-Solutions\Ch2\Ch2\Ex2.25.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\goran\Desktop\C++ primer\C-Primer-Solutions\Ch2\Ch2\Ex2.25.cpp(5,7): warning C4101: 'ip': unreferenced local variable
   Ch2.vcxproj -> C:\Users\goran\Desktop\C++ primer\C-Primer-Solutions\Ch2\x64\Debug\Ch2.exe
