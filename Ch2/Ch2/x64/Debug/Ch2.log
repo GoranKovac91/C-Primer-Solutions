@@ -1,5 +1,3 @@
-﻿  Ex2.28.cpp
-C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch2\Ch2\Ex2.28.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch2\Ch2\Ex2.28.cpp(4,26): warning C4228: nonstandard extension used: qualifiers after comma in declarator list are ignored
-C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch2\Ch2\Ex2.28.cpp(4,6): warning C4101: 'i': unreferenced local variable
+﻿  Ex2.36.cpp
+C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch2\Ch2\Ex2.36.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   Ch2.vcxproj -> C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch2\x64\Debug\Ch2.exe
