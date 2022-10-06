@@ -1,0 +1,5 @@
+﻿  Ex3.3.cpp
+C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch3\Ch3\Ch3\Ex3.3.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch3\Ch3\Ch3\Ex3.3.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch3\Ch3\Ch3\Ex3.3.cpp(22): warning C4715: 'IsEqual': not all control paths return a value
+  Ch3.vcxproj -> C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch3\Ch3\Debug\Ch3.exe

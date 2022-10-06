@@ -1,3 +1,6 @@
-﻿  Ex2.36.cpp
-C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch2\Ch2\Ex2.36.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  Ch2.vcxproj -> C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch2\x64\Debug\Ch2.exe
+﻿  Ex2.39.cpp
+C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch2\Ch2\Ex2.39.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch2\Ch2\Ex2.39.cpp(6,1): error C2628: 'foo' followed by 'int' is illegal (did you forget a ';'?)
+C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch2\Ch2\Ex2.39.cpp(7,1): error C3874: return type of 'main' should be 'int' instead of 'foo'
+C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch2\Ch2\Ex2.39.cpp(8,10): error C2440: 'return': cannot convert from 'int' to 'foo'
+C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch2\Ch2\Ex2.39.cpp(8,10): message : No constructor could take the source type, or constructor overload resolution was ambiguous
