@@ -20,9 +20,27 @@ std::string IsEqual()
 		return "Not equal and s2 bigger";
 	}
 }
+std::string CheckLength()
+{
+	std::string s1;
+	std::string s2;
+	std::getline(std::cin, s1);
+    std::getline(std::cin, s2);
+	if (s1.size()>s2.size())
+	{
+		return "String 1 is longer";
+	}
+	else if (s1.size()<s2.size())
+	{
+		return "String 2 is longer";
+	}
+	else
+	{
+		return "Strings are same length";
+	}
+}
 
 int main()
 {
-	
-	std::cout << IsEqual();
+	std::cout << CheckLength();
 }
