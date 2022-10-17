@@ -11,6 +11,7 @@ int main()
 	}
 	for (auto& it : v1)
 	{
+		
 		for (auto& c : it)
 		{
 			c = toupper(c);
@@ -18,14 +19,17 @@ int main()
 		
 	}
 	
-	for (int i = 0; i <v1.size() ; ++i)
+	for (auto& it : v1)
 	{
-		if (i % 8 == 0)
-		{
-			std::cout << std::endl;
-		}
-		std::cout << v1[i];
 
-		
+		std::cout << it;
+		for (int i = 0; i <=it.length(); i++)
+		{
+			if (i >=8)
+			{
+				std::cout << std::endl;
+			}
+		}
 	}
+	
 }
