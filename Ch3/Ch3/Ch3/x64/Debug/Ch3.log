@@ -1,6 +1,4 @@
-﻿  Ex3.21.cpp
-C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch3\Ch3\Ch3\Ex3.21.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch3\Ch3\Ch3\Ex3.21.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch3\Ch3\Ch3\Ex3.21.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch3\Ch3\Ch3\Ex3.21.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+﻿  Ex3.31.cpp
+C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch3\Ch3\Ch3\Ex3.31.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch3\Ch3\Ch3\Ex3.31.cpp(8,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   Ch3.vcxproj -> C:\Users\goran\OneDrive\Desktop\C++Primer 5th Edition\Solutions\Ch3\Ch3\x64\Debug\Ch3.exe
